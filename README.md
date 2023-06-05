@@ -1,5 +1,9 @@
+Hi, there! I am student who wants to be skillful backend developer! I love challenging something new.
+Nowadays I am interested in <a href="" target="_blank"><img src="https://img.shields.io/badge/test-#ffffff?style=for-the-badge&logo=rust&logoColor=#000000"/></a>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=help0304)](https://solved.ac/help0304/)
+
+I'm currently 
 <!--
 **jollidah/jollidah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
