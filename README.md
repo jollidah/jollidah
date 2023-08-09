@@ -2,10 +2,9 @@
 <a href="[https://velog.io/@jollidah?tag=%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98](https://www.notion.so/pnctask/My-Study-Note-9ac9d181f60340dda7d9411b1901cbd5)" target="_blank"><img src="https://img.shields.io/badge/study note-000000?style= flat-square&logo=notion&logoColor=#white"/></a> 
 
 
-Hi, there! I am student who wants to be skillful ***backend*** developer! I love challenging something new. \
+Hi, there! I am student who wants to be skillful ***backend*** developer. I love challenging something new. \
 Nowadays I'm interested in 
 <img src="https://img.shields.io/badge/rust-black?style=flat&logo=rust&logoColor=ffffff"/>
-<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
 
 
 
