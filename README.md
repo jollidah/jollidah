@@ -1,24 +1,27 @@
-<a href="https://velog.io/@jollidah?tag=%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98" target="_blank"><img src="https://img.shields.io/badge/Velog-00CC00?style= flat-square&logo=Velog&logoColor=FFFFFF"/></a> 
+# Seungwoo Ko
 
-Hi, there! I am student who wants to be skillful ***backend*** developer. I love challenging something new. \
-Nowadays I'm interested in 
-<img src="https://img.shields.io/badge/rust-black?style=flat&logo=rust&logoColor=ffffff"/>
+Backend developer in Seoul, building [Ponens](https://github.com/Ponens-ai).
+I like Rust, distributed systems, and AI agents.
 
+## What I care about
+- **Rust**: most of my backend and open-source work is in Rust
+- **Reading other people's code**: I learn by sending PRs to real projects, not just side projects
+- **Shipping products**: from infra (Terraform/HCL) to server to app, end to end
 
+## Project: AutCloud
+I spent $10k of my savings on a multi-agent system that turns a requirements doc into deployed Terraform.
+The design agent failed: same input, different "working but wrong" architectures.
+The plain features I built alongside it (resource tagging, idle detection, infra visualization) worked.
+Lesson: ship the boring tool that works.
+→ [Full write-up on r/FinOps](https://www.reddit.com/r/FinOps/comments/1qocogi/i_spent_10k_trying_to_automate_cloud_architecture/) (2.3k views)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=help0304)](https://solved.ac/help0304/)
+<!-- demo: drag the mp4/gif into GitHub's web editor here -->
 
-<!--
-**jollidah/jollidah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Open source
+- [lablup/raftify](https://github.com/lablup/raftify): Raft framework. Fixes and test refactoring
+- [martinohmann/hcl-rs](https://github.com/martinohmann/hcl-rs): HCL parser. Performance improvement by boxing large enum variants
+- [liquidos-ai/AutoAgents](https://github.com/liquidos-ai/AutoAgents): Rust multi-agent framework. Docs
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+- Blog: [velog.io/@jollidah](https://velog.io/@jollidah)
+- Algorithms: [solved.ac/help0304](https://solved.ac/help0304)
